@@ -7,7 +7,7 @@ Um projeto completo usando cucumber, capybara, siteprism e ruby para servir de e
 De um git clone no projeto
 
 ```
-C:/Users/aless/OneDrive/Documentos/e-Core_test/automated_tests/tests/.git/
+https://github.com/AAVILA251/e-Core_test.git
 ```
 
 ## 2-Passo:
