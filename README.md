@@ -1,4 +1,3 @@
-# e-Core_test
 # automated_tests
 
 Um projeto completo usando cucumber, capybara, siteprism e ruby para servir de exemplo
