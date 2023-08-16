@@ -1,6 +1,6 @@
 # automated_tests
 
-Um projeto completo usando cucumber, capybara, siteprism e ruby para servir de exemplo
+Um projeto completo usando cucumber, capybara, siteprism e ruby
 
 ## 1-Passo:
 
